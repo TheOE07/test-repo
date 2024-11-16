@@ -1,1 +1,1 @@
-get testing repo
+git testing repo
